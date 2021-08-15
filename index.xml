@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>我的全新 Hugo 网站</title>
+        <link>https://weihyv.github.io/</link>
+        <description>这是我的全新 Hugo 网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 15 Aug 2021 18:01:36 &#43;0800</lastBuildDate>
+            <atom:link href="https://weihyv.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>123</title>
+    <link>https://weihyv.github.io/123/</link>
+    <pubDate>Sun, 15 Aug 2021 18:01:36 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://weihyv.github.io/123/</guid>
+    <description><![CDATA[gegwefwer]]></description>
+</item><item>
+    <title></title>
+    <link>https://weihyv.github.io/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://weihyv.github.io/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</guid>
+    <description><![CDATA[数据的存储结构: 数据的存储结构: 数据的存储结构一般包括三个内容 内容存储：存储数据元素的内容(值),每个元素占据独立的可访问的存储区==必须具]]></description>
+</item></channel>
+</rss>
